@@ -1,4 +1,4 @@
-# Cab
+# ML Regression model on Cab fare prediction
 Cab Fare Prediction
 Problem Statement -
 You are a cab rental start-up company. You have successfully run the pilot project and
